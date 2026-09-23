@@ -1,0 +1,79 @@
+{
+  "release": "0.1.0-preview",
+  "status": "passed",
+  "reproducibility_scope": "metrics-only; manuscript results are not reproducible from this preview",
+  "forbidden_artifact_count": 0,
+  "private_string_findings": [],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 175,
+      "sha256": "d08dc3d23d5b1a3be019c5ec431e40d21e7a994a77783f75357896022fbe0546"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 304,
+      "sha256": "555896d106d40ab0278a48c69f362efb232d437fbaa34fe7b5c3a4c4f65a9ddf"
+    },
+    {
+      "path": "examples/synthetic_demo.py",
+      "bytes": 926,
+      "sha256": "c34e0247a9a019b2575fafb8118fb0bdf3ea1e26160e0201df9cce79ef70d84a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1083,
+      "sha256": "a1adcc2d4db96eec065f3270964f99566c52b66221955234048b8e3ea42d4146"
+    },
+    {
+      "path": "METHOD_SCOPE.md",
+      "bytes": 992,
+      "sha256": "19a2be123c8c5e497e4a0ddb375f43b307d82e26228bb22dd4baeb3f7969c30e"
+    },
+    {
+      "path": "orderfuse_pam/__init__.py",
+      "bytes": 393,
+      "sha256": "c9d8e8135761f19211efe0860a81ba66f03cc2c2d38080babf146ff52816824e"
+    },
+    {
+      "path": "orderfuse_pam/metrics.py",
+      "bytes": 3503,
+      "sha256": "1197953aed807c72683379f29b80bd865b2947e02d431981f8d238467a90ad22"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 450,
+      "sha256": "649cc7638dd7a6d400e01c33b3b09917d7a50898969635df6ec161f805227d37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2010,
+      "sha256": "7580ae1a46437b1f57e47741a6c19507161e99a9933020979c685830fcaa0ff9"
+    },
+    {
+      "path": "RELEASE_CONTENTS.md",
+      "bytes": 721,
+      "sha256": "3e4bafd14183850d9d9a42ba48ae13a13695c197163a330f06177c0bf2afe6ff"
+    },
+    {
+      "path": "RELEASE_POLICY.md",
+      "bytes": 776,
+      "sha256": "2c49c5a3e5440f6f1279e0ad05469ca9deffe11af76d86ba8ac7b4c1df7bcc58"
+    },
+    {
+      "path": "tests/test_metrics.py",
+      "bytes": 1019,
+      "sha256": "a63876a98e4cbe48314ae202dcfe96bfdce26ce406c50a0b3f2806e62a888b61"
+    },
+    {
+      "path": "tools/audit_release.py",
+      "bytes": 2214,
+      "sha256": "666871d5565936d68605f672c13e7a4efec65b528e930e8265263ab1b81dff4c"
+    },
+    {
+      "path": "\u53d1\u5e03\u8bf4\u660e_\u4e2d\u6587.md",
+      "bytes": 1125,
+      "sha256": "5eec642aeb37298c77927a3b59496fdbb22078f28bc5e13b3e19a73f0c98f8bf"
+    }
+  ]
+}

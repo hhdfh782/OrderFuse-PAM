@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this preview, please cite the associated manuscript after its bibliographic record becomes available."
+title: "OrderFuse-PAM: Preview evaluation utilities"
+type: software
+authors:
+  - name: OrderFuse-PAM Contributors
+year: 2026
+license: MIT
+version: 0.1.0-preview
